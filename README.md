@@ -1,7 +1,7 @@
 # paccpp
 Programmation Audio en C/C++ - Université de Paris 8 - 2016-2017
 
-Cette page sera régulièrement mise à jour durant le semestre.
+Ce répertoire sera régulièrement mis à jour durant le semestre.
 
 ---
 
@@ -11,8 +11,8 @@ Vous retrouverez ici un récapitulatif des dernières séances du cours:
 
 | Séances   | déscription |
 |-----------|-------------|
-|[01](s01)  | Langage C - révision 01 |
-|02         | Langage C - révision 02 |
+|[01](s01)  | Langage C - concepts 01 |
+|[02](s02)  | Langage C - concepts 02 |
 |03         | Anatomie d'un objet PureData et premier Objet de type signal|
 |04         | ... |
 
