@@ -13,7 +13,7 @@ Vous retrouverez ici un récapitulatif des dernières séances du cours:
 |-----------|-------------|
 |[01](s01)  | Langage C - concepts 01 |
 |[02](s02)  | Langage C - concepts 02 |
-|03         | Langage C - concepts 03 && Création d'external pour PureData |
+|03         | Langage C - concepts 03 <br/> Création d'external pour PureData |
 |04         | ... |
 
 ### Configurer votre environnement de travail:
