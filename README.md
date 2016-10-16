@@ -28,4 +28,8 @@ Au cours du semestre nous créerons nos propres objets externes pour PureData et
 
 - [StarterKit](https://github.com/paccpp/StarterKit) : Architecture de travail simple permettant de compiler rapidement des programmes en C/C++.
 
+- [PdStarterKit](https://github.com/paccpp/PdStarterKit) : Architecture de travail simple permettant de compiler rapidement des externals pour PureData.
+
+- [MaxStarterKit](https://github.com/paccpp/MaxStarterKit) : Architecture de travail simple permettant de compiler rapidement des externals pour Max.
+
 ### Liens utiles:
