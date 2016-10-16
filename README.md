@@ -13,7 +13,7 @@ Vous retrouverez ici un récapitulatif des dernières séances du cours:
 |-----------|-------------|
 |[01](s01)  | Langage C - concepts 01 |
 |[02](s02)  | Langage C - concepts 02 |
-|03         | Anatomie d'un objet PureData et premier Objet de type signal|
+|03         | Langage C - concepts 03 && Création d'external pour PureData |
 |04         | ... |
 
 ### Configurer votre environnement de travail:
@@ -24,12 +24,12 @@ Au cours du semestre nous créerons nos propres objets externes pour PureData et
 - PureData : [page de téléchargement](http://msp.ucsd.edu/software.html).
 - Max : [page de téléchargement](https://cycling74.com/downloads/).
 
-### Répertoires de travail:
+### Autres répertoires de travail:
 
 - [StarterKit](https://github.com/paccpp/StarterKit) : Architecture de travail simple permettant de compiler rapidement des programmes en C/C++.
 
-- [PdStarterKit](https://github.com/paccpp/PdStarterKit) : Architecture de travail simple permettant de compiler rapidement des externals pour PureData.
+- [PdStarterKit](https://github.com/paccpp/PdStarterKit) : Architecture de base pour compiler des externals pour PureData.
 
-- [MaxStarterKit](https://github.com/paccpp/MaxStarterKit) : Architecture de travail simple permettant de compiler rapidement des externals pour Max.
+- [MaxStarterKit](https://github.com/paccpp/MaxStarterKit) : Architecture de base pour compiler des externals pour Max.
 
 ### Liens utiles:
