@@ -32,4 +32,15 @@ Au cours du semestre nous créerons nos propres objets externes pour PureData et
 
 - [MaxStarterKit](https://github.com/paccpp/MaxStarterKit) : Architecture de base pour compiler des externals pour Max.
 
+---
+
 ### Liens utiles:
+
+- Langage C :
+  - https://www.tutorialspoint.com/cprogramming/
+- Langage C++ :
+  - http://www.tutorialspoint.com/cplusplus/
+- PureData :
+  - http://pdstatic.iem.at/externals-HOWTO/
+- Max :
+  - https://cycling74.com/sdk/MaxSDK-6.1.4/html/index.html
