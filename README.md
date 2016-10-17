@@ -43,4 +43,4 @@ Au cours du semestre nous créerons nos propres objets externes pour PureData et
 - PureData :
   - http://pdstatic.iem.at/externals-HOWTO/
 - Max :
-  - https://cycling74.com/sdk/MaxSDK-6.1.4/html/index.html
+  - https://cycling74.com/sdk/MaxSDK-7.1.0/html/index.html
