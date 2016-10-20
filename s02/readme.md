@@ -1,8 +1,9 @@
 # Séance 02
 
-Vous trouverez ici le contenu de la **séance 02**.
+<p><sup><a href="../s01">précédente</a> | <a href="../s03">suivante</a></sup></p>
 
-Au cours de cette séance nous avons vu :
+#### Langage C - notions 02
+
 - La **structure** ([en savoir plus](https://www.tutorialspoint.com/cprogramming/c_structures.htm))
 - Le **tableau** fixe ([en savoir plus](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)).
 - La manière dont sont représentés et gérés les types de données au sein de la **mémoire** d'un ordinateur ([en savoir plus](https://www.tutorialspoint.com/cprogramming/c_data_types.htm)).

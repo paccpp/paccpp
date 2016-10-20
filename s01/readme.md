@@ -1,6 +1,8 @@
 # Séance 01
 
-Vous trouverez ici le contenu de la séance 01.
+<p><sup><a href="../s02">suivante</a></sup></p>
+
+#### Langage C - notions 01
 
 - Fonction ``main``.
 - Types ``int`` et ``float``
