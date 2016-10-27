@@ -35,9 +35,9 @@ Au cours du semestre nous créerons nos propres objets externes pour PureData et
 
 - [MaxStarterKit](https://github.com/paccpp/MaxStarterKit) : Architecture de base pour compiler des externals pour Max.
 
-- [PdObjects](https://github.com/paccpp/PdObjects) : Architecture de base pour compiler des externals pour PureData.
+- [PdObjects](https://github.com/paccpp/PdObjects) : Objets PureData développés dans le cadre de ce cours.
 
-- [MaxObjects](https://github.com/paccpp/MaxObjects) : Architecture de base pour compiler des externals pour Max.
+- [MaxObjects](https://github.com/paccpp/MaxObjects) : Objets Max développés dans le cadre de ce cours.
 
 ---
 
