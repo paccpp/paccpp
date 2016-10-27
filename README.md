@@ -14,7 +14,7 @@ Vous retrouverez ici un récapitulatif des dernières séances du cours:
 |[01](s01)  | Langage C - notions 01 |
 |[02](s02)  | Langage C - notions 02 |
 |[03](s03)  | Langage C - notions 03 <br/> Création d'external pour PureData et Max |
-|04         | Objets audio dans Max et PureData |
+|[04](s04)  | Objets audio dans Max et PureData |
 |05         | Oscilateurs |
 |06         | ligne à retard |
 |07         | ... |
@@ -34,6 +34,10 @@ Au cours du semestre nous créerons nos propres objets externes pour PureData et
 - [PdStarterKit](https://github.com/paccpp/PdStarterKit) : Architecture de base pour compiler des externals pour PureData.
 
 - [MaxStarterKit](https://github.com/paccpp/MaxStarterKit) : Architecture de base pour compiler des externals pour Max.
+
+- [PdObjects](https://github.com/paccpp/PdObjects) : Architecture de base pour compiler des externals pour PureData.
+
+- [MaxObjects](https://github.com/paccpp/MaxObjects) : Architecture de base pour compiler des externals pour Max.
 
 ---
 
