@@ -1,4 +1,4 @@
-# Séance 04
+# Séance 05
 
 <p><sup><a href="../s04">précédente</a> | <a href="../s06">suivante</a></sup></p>
 
