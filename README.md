@@ -15,9 +15,13 @@ Vous retrouverez ici un récapitulatif des dernières séances du cours:
 |[02](s02)  | Langage C - notions 02 |
 |[03](s03)  | Langage C - notions 03 <br/> Création d'external pour PureData et Max |
 |[04](s04)  | Objets audio dans Max et PureData |
-|05         | Oscilateurs |
-|06         | ligne à retard |
-|07         | ... |
+|[05](s05)  | Oscillateurs 01|
+|06         | Oscillateurs 02 ... |
+|07         | Ligne à retard |
+|08         | ... |
+|09         | ... |
+|10         | ... |
+|11         | ... |
 
 ### Configurer votre environnement de travail:
 Pour configurer votre environnement de travail afin de pouvoir compiler des programmes en C/C++, rdv au lien suivant:
