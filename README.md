@@ -15,9 +15,9 @@ Vous retrouverez ici un récapitulatif des dernières séances du cours:
 |[02](s02)  | Langage C - notions 02 |
 |[03](s03)  | Langage C - notions 03 <br/> Création d'external pour PureData et Max |
 |[04](s04)  | Objets audio dans Max et PureData |
-|[05](s05)  | Oscillateurs 01|
-|06         | Oscillateurs 02 ... |
-|07         | Ligne à retard |
+|[05](s05)  | Oscillateurs 01 |
+|[06](s06)  | - Oscillateurs 02 <br/>- Ligne à retard 01 |
+|07         | Ligne à retard 02 |
 |08         | ... |
 |09         | ... |
 |10         | ... |
