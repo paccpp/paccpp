@@ -17,8 +17,8 @@ Vous retrouverez ici un récapitulatif des dernières séances du cours:
 |[04](s04)  | Objets audio dans Max et PureData |
 |[05](s05)  | Oscillateurs 01 |
 |[06](s06)  | - Oscillateurs 02 <br/>- Ligne à retard 01 |
-|07         | Ligne à retard 02 |
-|08         | ... |
+|[07](s07)  | Sample And Hold |
+|08         | Ligne à retard 02 |
 |09         | ... |
 |10         | ... |
 |11         | ... |
