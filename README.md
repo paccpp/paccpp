@@ -7,7 +7,7 @@ Ce répertoire sera régulièrement mis à jour durant le semestre.
 
 ### Séances:
 
-Vous retrouverez ici un récapitulatif des dernières séances du cours:
+Vous trouverez ici des lien vers les contenus des dernières séances du cours:
 
 | Séances   | déscription |
 |-----------|-------------|
