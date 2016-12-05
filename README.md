@@ -19,7 +19,7 @@ Vous trouverez ici des lien vers les contenus des dernières séances du cours:
 |[06](s06)  | - Oscillateurs 02 <br/>- Ligne à retard 01 |
 |[07](s07)  | TD : Sample And Hold |
 |[08](s08)  | TD : clip~ |
-|09         | Ligne à retard 02 |
+|[09](s09)  | Ligne à retard 02 |
 |10         | ... |
 |11         | ... |
 
