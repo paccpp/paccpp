@@ -47,6 +47,7 @@ Au cours du semestre nous créerons nos propres objets externes pour PureData et
 
 ### Liens utiles:
 
+- ["paccpp wiki"](https://github.com/paccpp/paccpp/wiki)
 - Langage C :
   - https://www.tutorialspoint.com/cprogramming/
 - Langage C++ :
