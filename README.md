@@ -20,7 +20,7 @@ Vous trouverez ici des lien vers les contenus des dernières séances du cours:
 |[07](s07)  | TD : Sample And Hold |
 |[08](s08)  | TD : clip~ |
 |[09](s09)  | Ligne à retard 02 |
-|10         | ... |
+|[10](s10)  | Lecture dans un buffer externe |
 |11         | ... |
 
 ### Configurer votre environnement de travail:
