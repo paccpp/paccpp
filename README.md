@@ -21,7 +21,7 @@ Vous trouverez ici des lien vers les contenus des dernières séances du cours:
 |[08](s08)  | TD : clip~ |
 |[09](s09)  | Ligne à retard 02 |
 |[10](s10)  | Lecture dans un buffer externe |
-|11         | ... |
+|[11](s11)  | - Lissage de valeurs de contrôle <br/>- Utilisation d'une Clock |
 
 ### Configurer votre environnement de travail:
 Pour configurer votre environnement de travail afin de pouvoir compiler des programmes en C/C++, rdv au lien suivant:
