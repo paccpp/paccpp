@@ -1,8 +1,6 @@
 # paccpp
 Programmation Audio en C/C++ - Université de Paris 8 - 2016-2017
 
----
-
 ### Séances:
 
 Vous trouverez ici des liens vers les contenus des séances du cours:
@@ -42,11 +40,9 @@ vous pouvez télécharger ces deux logiciels à partir des liens qui suivent:
 
 - [MaxObjects](https://github.com/paccpp/MaxObjects) : Objets Max développés dans le cadre de ce cours.
 
----
-
 ### Liens utiles:
 
-- ["paccpp wiki"](https://github.com/paccpp/paccpp/wiki)
+- [paccpp wiki](https://github.com/paccpp/paccpp/wiki)
 - Langage C :
   - https://www.tutorialspoint.com/cprogramming/
 - Langage C++ :
