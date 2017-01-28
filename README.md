@@ -1,6 +1,8 @@
 # paccpp
 Programmation Audio en C/C++ - Université de Paris 8 - 2016-2017 | 1er semestre
 
+=> Lien vers le cours du [2nd semestre](https://github.com/paccpp/paccpp2).
+
 ### Séances:
 
 Vous trouverez ici des liens vers les contenus des séances du cours:
