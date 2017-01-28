@@ -1,5 +1,5 @@
 # paccpp
-Programmation Audio en C/C++ - Université de Paris 8 - 2016-2017
+Programmation Audio en C/C++ - Université de Paris 8 - 2016-2017 | 1er semestre
 
 ### Séances:
 
